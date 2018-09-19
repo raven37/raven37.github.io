@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-19T09:57:05+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Progetti attuali</title><subtitle>Sito personale dove è possibile monitorare lo sviluppo di progetti</subtitle><entry><title type="html">Belém (BR) - Parte prima</title><link href="http://localhost:4000/viaggi/2018/09/18/brasile_parte_prima.html" rel="alternate" type="text/html" title="Belém (BR) - Parte prima" /><published>2018-09-18T11:15:05+02:00</published><updated>2018-09-18T11:15:05+02:00</updated><id>http://localhost:4000/viaggi/2018/09/18/brasile_parte_prima</id><content type="html" xml:base="http://localhost:4000/viaggi/2018/09/18/brasile_parte_prima.html">&lt;p&gt;Un po’ di immagini delle spiagge incontrate&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-19T10:06:38+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Progetti attuali</title><subtitle>Sito personale dove è possibile monitorare lo sviluppo di progetti</subtitle><entry><title type="html">Belém (BR) - Parte prima</title><link href="http://localhost:4000/viaggi/2018/09/18/brasile_parte_prima.html" rel="alternate" type="text/html" title="Belém (BR) - Parte prima" /><published>2018-09-18T11:15:05+02:00</published><updated>2018-09-18T11:15:05+02:00</updated><id>http://localhost:4000/viaggi/2018/09/18/brasile_parte_prima</id><content type="html" xml:base="http://localhost:4000/viaggi/2018/09/18/brasile_parte_prima.html">&lt;p&gt;Un po’ di immagini delle spiagge incontrate&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/brasile/1/IMG_20180701_133408.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
@@ -60,11 +60,18 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/brasile/2/IMG_20180720_125047.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Il patio Belem è un centro commerciale, e la Missa, sì, è la messa.&lt;/p&gt;</content><author><name></name></author><summary type="html">Le situazioni particolari incontrate</summary></entry><entry><title type="html">Case mod</title><link href="http://localhost:4000/modding/2018/09/13/casemod.html" rel="alternate" type="text/html" title="Case mod" /><published>2018-09-13T11:15:05+02:00</published><updated>2018-09-13T11:15:05+02:00</updated><id>http://localhost:4000/modding/2018/09/13/casemod</id><content type="html" xml:base="http://localhost:4000/modding/2018/09/13/casemod.html">&lt;p&gt;Foto del mio primo case mod:
-&lt;img src=&quot;/assets/IMG_20180731_152203.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;
-&lt;img src=&quot;/assets/IMG_20180731_163031.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;
-&lt;img src=&quot;/assets/IMG_20180802_083910.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;
-&lt;img src=&quot;/assets/IMG_20180802_085747.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;
-&lt;img src=&quot;/assets/IMG_20180802_133705.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;
-&lt;img src=&quot;/assets/IMG_20180802_135436.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;
-&lt;img src=&quot;/assets/IMG_20180802_141753.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Foto del mio primo case mod:</summary></entry></feed>
+&lt;p&gt;Il patio Belem è un centro commerciale, e la Missa, sì, è la messa.&lt;/p&gt;</content><author><name></name></author><summary type="html">Le situazioni particolari incontrate</summary></entry><entry><title type="html">Case mod</title><link href="http://localhost:4000/modding/2018/09/13/casemod.html" rel="alternate" type="text/html" title="Case mod" /><published>2018-09-13T11:15:05+02:00</published><updated>2018-09-13T11:15:05+02:00</updated><id>http://localhost:4000/modding/2018/09/13/casemod</id><content type="html" xml:base="http://localhost:4000/modding/2018/09/13/casemod.html">&lt;p&gt;Foto del mio primo case mod:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/IMG_20180731_152203.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/IMG_20180731_163031.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/IMG_20180802_083910.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/IMG_20180802_085747.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/IMG_20180802_133705.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/IMG_20180802_135436.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/IMG_20180802_141753.jpg&quot; alt=&quot;Case da modificare&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Foto del mio primo case mod:</summary></entry></feed>
